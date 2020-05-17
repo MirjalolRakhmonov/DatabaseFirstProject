@@ -1,0 +1,12 @@
+C:\Users\e6530\source\repos\DatabaseFirstProject\DatabaseFirstProject\bin\Debug\DatabaseFirstProject.pdb
+C:\Users\e6530\source\repos\DatabaseFirstProject\DatabaseFirstProject\obj\Debug\DatabaseFirstProject.csprojAssemblyReference.cache
+C:\Users\e6530\source\repos\DatabaseFirstProject\DatabaseFirstProject\obj\Debug\DatabaseFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\e6530\source\repos\DatabaseFirstProject\DatabaseFirstProject\obj\Debug\DatabaseFirstProject.pdb
+C:\Users\e6530\source\repos\DatabaseFirstProject\DatabaseFirstProject\bin\Debug\DatabaseFirstProject.exe.config
+C:\Users\e6530\source\repos\DatabaseFirstProject\DatabaseFirstProject\bin\Debug\DatabaseFirstProject.exe
+C:\Users\e6530\source\repos\DatabaseFirstProject\DatabaseFirstProject\bin\Debug\EntityFramework.dll
+C:\Users\e6530\source\repos\DatabaseFirstProject\DatabaseFirstProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\e6530\source\repos\DatabaseFirstProject\DatabaseFirstProject\bin\Debug\EntityFramework.xml
+C:\Users\e6530\source\repos\DatabaseFirstProject\DatabaseFirstProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\e6530\source\repos\DatabaseFirstProject\DatabaseFirstProject\obj\Debug\DatabaseFirstProject.csproj.CopyComplete
+C:\Users\e6530\source\repos\DatabaseFirstProject\DatabaseFirstProject\obj\Debug\DatabaseFirstProject.exe
